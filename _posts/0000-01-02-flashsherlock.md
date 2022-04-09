@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+**KEEP CALM AND GO BLUE**
 Use the left arrow to go back!
